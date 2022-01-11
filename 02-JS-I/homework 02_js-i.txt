@@ -1,0 +1,9 @@
+variables: forma de almacenar el valor de algo para usarlo m�s tarde. Le indico a la consola los valores para que los grabe y
+los recuerde para usarlos luego.
+strings: son bloques de texto que se definen entre comillas. Son las palabras con las que explico qu� significan las variables.
+funciones: parte del lenguaje de programacion. llevan argumentos donde se declara qu� funcion se va a utilizar, y a veces lo que
+debe devolver esa funcion (return). 
+Return: devuelve lo especificado, lo que la funci�n pide.
+IF: es como un condicional que indica que si se dan ciertas pautas (usando operadores de comparaci�n), se tiene que devolver
+true o false.
+Valores booleanos: utilizado por el c�digo binario. True o False. no hay otras respuestas.

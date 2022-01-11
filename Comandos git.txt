@@ -1,0 +1,20 @@
+guardar= Ctrl+s
+borrar todo lo de la terminal= Ctrl+l
+cerrar terminal= Ctrl+ñ
+ls: ver que cosas tiene adentro la carpeta
+cd: cambiar directorio (carpeta) - Poner cd *nombre de la carpeta*
+cd espacio+*Primer letra de la carpeta*+tab = completa el nombre de la carpeta
+
+git status: mostrar archivos modificados
+git add . o git add *nombre del archivo*: agregar archivo ad git bash
+git commit m- "escribir cambio realizado": para confirmar el cambio y subir el archivo
+git push: subir cambios en forma local al repositorio remoto de github
+
+Misma longitud: a.length === b.length
+Devolver resto: 21%5===1
+Elevar un exponente: Math.pow (num,exponente)
+Redondear un nro al entero + próximo: Math.round
+Redondear hacia arriba: Math.ceil
+Redondear hacia abajo: Math.floor
+Nro aleatorio: Math.random
+
